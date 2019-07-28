@@ -4,5 +4,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This is shopping list app using react.
 
 ## What I learned from this project?
--Basic React.
+-Basic React.   
 -State management using React.
