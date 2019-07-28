@@ -5,4 +5,4 @@ This is shopping list app using react.
 
 ## What I learned from this project?
 *How to use React.
-*Basic state management in React.
+  *Basic state management in React.
